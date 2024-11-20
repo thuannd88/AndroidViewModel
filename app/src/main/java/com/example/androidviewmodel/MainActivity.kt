@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
 
         var btn = findViewById<Button>(R.id.btnIncrease)
         var txt = findViewById<TextView>(R.id.txtPoint)
+
 //        viewModel.point.observe(this,{
 //            txt.text = viewModel.point.toString()
 //        })
